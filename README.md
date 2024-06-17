@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning on **forntend developer and java full stack**
 
-- 🌱 I’m currently learning **HTML,CSS3,JAVA,JAVASCRIPT**
+
 
 - 👯 I’m looking to collaborate on **my future projects**
 
