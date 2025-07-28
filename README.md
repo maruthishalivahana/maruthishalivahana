@@ -6,9 +6,9 @@ I'm a passionate **Computer Science and Engineering (CSE)** student at **BVRIT**
 
 ## 💼 About Me
 
-- 🎓 **College:** BVRIT (Bharatiya Vidya Bhavan's Institute of Technology)
+- 🎓 **College:** BVRIT (BV raju Institute of Technology)
 - 🖥️ **Branch:** Computer Science and Engineering (B.Tech)
-- 💡 **Interests:** Web Development • Python • AI-Powered Platforms • UX Design
+- 💡 **Interests:** Web Development • java • AI-Powered Platforms • UX Design
 - 🚀 **Current Projects:** 
   - [Donovest - Micro Donations & SRI Platform](https://github.com/MaruthiDev/Donovest)
   - [CaseConvert - Text Case Converter](https://github.com/MaruthiDev/CaseConvert)
@@ -50,7 +50,6 @@ I'm a passionate **Computer Science and Engineering (CSE)** student at **BVRIT**
 
 I'm looking forward to collaborating on projects that involve:
 - Web Applications (Frontend & Backend)
-- AI-powered platforms for Social Good
 - Real-time communication & UX innovations
 
 Feel free to connect if you have cool ideas or want to build something impactful together!
@@ -59,15 +58,15 @@ Feel free to connect if you have cool ideas or want to build something impactful
 
 ## 📫 Connect with Me
 
-- **GitHub:** [github.com/MaruthiDev](https://github.com/MaruthiDev)
+- **GitHub:** [github.com/MaruthiDev](https://github.com/maruthishalivahana)
 - **LinkedIn:** [linkedin.com/in/kummari-maruthi](https://www.linkedin.com/in/kummari-maruthi/)
-- **Email:** kummarimaruthi2004@gmail.com
+- **Email:** maruthikummari553@gmail.com
 
 ---
 
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaruthiDev&show_icons=true&theme=radical" alt="Maruthi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaruthiDev&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maruthishalivahana&show_icons=true&theme=radical" alt="Maruthi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthishalivahana&layout=compact&theme=radical" alt="Top Languages" />
 </p>
