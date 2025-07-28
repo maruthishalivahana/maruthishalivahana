@@ -38,8 +38,8 @@ I'm a passionate **Computer Science and Engineering (CSE)** student at **BVRIT**
 - 🛡️ **[Donovest](https://github.com/maruthishalivahana/Donovest):**  
   AI-powered micro-donation and SRI platform integrating fraud detection and smart recommendations.
   
-- 📝 **[CaseConvert](https://github.com/maruthishalivahana/CaseConvert):**  
-  A simple, responsive web app to convert text into various cases with clean UI.
+- 📝 **[Movie-Website](https://github.com/maruthishalivahana/movie-website):**  
+  A simple, responsive web app for movie reviews with clean UI.
   
 - 📊 **[BioInsight Platform](https://github.com/maruthishalivahana/BioInsight):**  
   A web-based biomedical insights platform for human protein/gene analysis using trusted APIs.
