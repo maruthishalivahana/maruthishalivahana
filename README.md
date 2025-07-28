@@ -1,6 +1,6 @@
 # Hi there, I'm Kummari Maruthi 👋
 
-I'm a passionate **Computer Science and Engineering (CSE)** student at **BVRIT** with a deep interest in **Web Development**, **Python**, and building impactful tech solutions. I enjoy developing user-friendly interfaces, scalable web applications, and exploring AI-powered platforms. Welcome to my GitHub space where ideas turn into code!
+I'm a passionate **Computer Science and Engineering (CSE)** student at **BVRIT** with a deep interest in **MERN Stack Development**, **Java**, and building impactful tech solutions. I enjoy developing user-friendly interfaces, scalable web applications, and exploring AI-powered platforms. Welcome to my GitHub space where ideas turn into code!
 
 ---
 
@@ -8,10 +8,7 @@ I'm a passionate **Computer Science and Engineering (CSE)** student at **BVRIT**
 
 - 🎓 **College:** BVRIT (BV raju Institute of Technology)
 - 🖥️ **Branch:** Computer Science and Engineering (B.Tech)
-- 💡 **Interests:** Web Development • java • AI-Powered Platforms • UX Design
-- 🚀 **Current Projects:** 
-  - [Donovest - Micro Donations & SRI Platform](https://github.com/MaruthiDev/Donovest)
-  - [CaseConvert - Text Case Converter](https://github.com/MaruthiDev/CaseConvert)
+- 💡 **Interests:** MERN Stack Development • java • AI-Powered Platforms • UX Design
 - 🌱 **Currently Exploring:** MERN Stack • API Integrations • Real-time Communication Features
 
 ---
@@ -25,7 +22,6 @@ I'm a passionate **Computer Science and Engineering (CSE)** student at **BVRIT**
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
 
@@ -41,7 +37,7 @@ I'm a passionate **Computer Science and Engineering (CSE)** student at **BVRIT**
 - 📝 **[Movie-Website](https://github.com/maruthishalivahana/movie-website):**  
   A simple, responsive web app for movie reviews with clean UI.
   
-- 📊 **[BioInsight Platform](https://github.com/maruthishalivahana/BioInsight):**  
+- 📊 **[Aminoverse](https://github.com/maruthishalivahana/Aminoverse):**  
   A web-based biomedical insights platform for human protein/gene analysis using trusted APIs.
 
 ---
