@@ -35,13 +35,13 @@ I'm a passionate **Computer Science and Engineering (CSE)** student at **BVRIT**
 
 ## 🚀 My Projects
 
-- 🛡️ **[Donovest](https://github.com/MaruthiDev/Donovest):**  
+- 🛡️ **[Donovest](https://github.com/maruthishalivahana/Donovest):**  
   AI-powered micro-donation and SRI platform integrating fraud detection and smart recommendations.
   
-- 📝 **[CaseConvert](https://github.com/MaruthiDev/CaseConvert):**  
+- 📝 **[CaseConvert](https://github.com/maruthishalivahana/CaseConvert):**  
   A simple, responsive web app to convert text into various cases with clean UI.
   
-- 📊 **[BioInsight Platform](https://github.com/MaruthiDev/BioInsight):**  
+- 📊 **[BioInsight Platform](https://github.com/maruthishalivahana/BioInsight):**  
   A web-based biomedical insights platform for human protein/gene analysis using trusted APIs.
 
 ---
