@@ -15,7 +15,6 @@
 - 🌱 **Currently Exploring:** MERN Stack • API Integrations • Real-time Communication Features
 
 ---
-
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
@@ -32,7 +31,12 @@
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com)
+[![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com)
 
+**Mobile** :
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
+[![NativeWind](https://img.shields.io/badge/NativeWind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://www.nativewind.dev)
 
 **Backend** :
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)](https://nodejs.org)
@@ -50,7 +54,33 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
 
 </div>
+## 🌟 Featured Open Source Projects
 
+### 💰 [WalletWise](https://github.com/maruthishalivahana/WalletWise)
+> A personal finance and wallet management application to help users track expenses, manage budgets, and take control of their finances.
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
+![Open Source](https://img.shields.io/badge/open--source-contribution-blue?style=flat-square)
+
+---
+
+### 🌐 [Fediverse](https://github.com/maruthishalivahana/Fediverse)
+> A Fediverse-compatible photo sharing social platform built to work with decentralized social networks using the ActivityPub protocol. Share images and interact across different federated platforms.
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MIT License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
+
+---
+
+### 📬 [Inboxly](https://github.com/maruthishalivahana/Inboxly)
+> A smart email and inbox management application designed to streamline communication and help users stay organized with their messages.
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Open Source](https://img.shields.io/badge/open--source-contribution-blue?style=flat-square)
+
+---
 
 ## 🚀 Featured Projects
 
