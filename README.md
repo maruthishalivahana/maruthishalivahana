@@ -8,12 +8,13 @@
 ---
 
 ## 💼 About Me
+## Resume : https://drive.google.com/file/d/1Tc9a4JowqC2IYx-EXRiQBQNf87xOwRZu/view?usp=drivesdk
 
 - 🎓 **College:** BVRIT (BV raju Institute of Technology)
 - 🖥️ **Branch:** Computer Science and Engineering (B.Tech)
 - 💡 **Interests:** MERN Stack Development • java • AI-Powered Platforms • UX Design
 - 🌱 **Currently Exploring:** MERN Stack • API Integrations • Real-time Communication Features
-
+  
 ---
 ## 🛠️ Tech Stack & Skills
 
