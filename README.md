@@ -8,7 +8,7 @@
 ---
 
 ## 💼 About Me
-## Resume : https://drive.google.com/file/d/1Tc9a4JowqC2IYx-EXRiQBQNf87xOwRZu/view?usp=drivesdk
+## Resume :https://drive.google.com/file/d/19qywnFrHSq_1NUKxg5-Izi8f-StLM5Zq/view?usp=drivesdk
 
 - 🎓 **College:** BVRIT (BV raju Institute of Technology)
 - 🖥️ **Branch:** Computer Science and Engineering (B.Tech)
